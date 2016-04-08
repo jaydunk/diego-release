@@ -35,7 +35,7 @@
 	url = https://github.com/ajstarks/svgo
 [submodule "src/github.com/cloudfoundry-incubator/executor"]
 	path = src/github.com/cloudfoundry-incubator/executor
-	url = https://github.com/cloudfoundry-incubator/executor
+	url = https://github.com/sykesm/executor
 	branch = master
 [submodule "src/github.com/cloudfoundry-incubator/stager"]
 	path = src/github.com/cloudfoundry-incubator/stager
@@ -47,7 +47,7 @@
 	branch = master
 [submodule "src/github.com/cloudfoundry-incubator/rep"]
 	path = src/github.com/cloudfoundry-incubator/rep
-	url = https://github.com/cloudfoundry-incubator/rep
+	url = https://github.com/sykesm/rep
 	branch = master
 [submodule "src/github.com/cloudfoundry-incubator/candiedyaml"]
 	path = src/github.com/cloudfoundry-incubator/candiedyaml
@@ -71,7 +71,7 @@
 	branch = master
 [submodule "src/github.com/cloudfoundry-incubator/nsync"]
 	path = src/github.com/cloudfoundry-incubator/nsync
-	url = https://github.com/cloudfoundry-incubator/nsync
+	url = https://github.com/jaydunk/nsync
 	branch = master
 [submodule "src/github.com/tedsuo/rata"]
 	path = src/github.com/tedsuo/rata
@@ -83,7 +83,7 @@
 	branch = master
 [submodule "src/github.com/cloudfoundry-incubator/inigo"]
 	path = src/github.com/cloudfoundry-incubator/inigo
-	url = https://github.com/cloudfoundry-incubator/inigo
+	url = https://github.com/sykesm/inigo
 	branch = master
 [submodule "src/github.com/GaryBoone/GoStats"]
 	path = src/github.com/GaryBoone/GoStats
@@ -232,7 +232,7 @@
 	branch = master
 [submodule "src/github.com/cloudfoundry-incubator/bbs"]
 	path = src/github.com/cloudfoundry-incubator/bbs
-	url = https://github.com/cloudfoundry-incubator/bbs
+	url = https://github.com/sykesm/bbs
 	branch = master
 [submodule "src/github.com/cloudfoundry-incubator/healthcheck"]
 	path = src/github.com/cloudfoundry-incubator/healthcheck
