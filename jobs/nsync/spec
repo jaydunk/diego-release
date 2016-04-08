@@ -77,3 +77,6 @@ properties:
     description: URL of file server
     default: http://file-server.service.cf.internal:8080
 
+  diego.nsync.network_id:
+    description: "network id to set on desired LRPs.  If empty, it will not be set."
+    default: ""
